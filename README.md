@@ -16,17 +16,16 @@ This tool facilitates the seamless download of Bulk MCA V3 documents from Finanv
 
 ## How to use
 
-1. Download file - V3Docs.zip
-2. Extract the file
-3. Change Useremail and Userpassword with your Finanvo credentials to userdata.json file
-4. Save and Close the .json file
-5. Add CIN Numbers to ToDownloadCINV3Docs.csv file in CIN Column
-6. Save and Close teh .csv file
-7. Install Python and Pandas Library in your system and set the path
-8. Type "cmd" in Address Bar of the Folder where .py file exists, to open the Command Prompt in same folder
-9. Type command:
-python MainProgram.py
-(it will start the downloading using CIN Numbers in .csv file)
+1. Download a file named "V3Docs.zip".
+2. Unzip the downloaded file.
+3. Open a file called "userdata.json" and replace the placeholders for Useremail and Userpassword with your Finanvo credentials. Save the changes and close the file.
+4. Open a file named "ToDownloadCINV3Docs.csv" and add CIN (Corporate Identification Number) values to the "CIN" column. Save the changes and close the file.
+5. Install Python and the Pandas library on your computer, and make sure to set the installation path.
+6. Navigate to the folder where the Python script (MainProgram.py) is located.
+7. Open the command prompt in that folder by typing "cmd" in the address bar.
+8. In the command prompt, type the following command:
+       # python MainProgram.py
+10. This command will initiate the downloading process using the CIN numbers from the CSV file.
 
 
 ## Dependencies
