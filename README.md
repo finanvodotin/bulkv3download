@@ -30,8 +30,8 @@ This tool facilitates the seamless download of Bulk MCA V3 documents from Finanv
 
 ## Dependencies
 
-Python 3.x
-Requests library
+Python 3.x & Pandas Library
+
 ## Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
