@@ -18,7 +18,7 @@ This tool facilitates the seamless download of Bulk MCA V3 documents from Finanv
 
 1. Download file - V3Docs.zip
 2. Extract the file
-3. Change Finanvo Useremail and Userpassword to userdata.json file
+3. Change Useremail and Userpassword with your Finanvo credentials to userdata.json file
 4. Save and Close the .json file
 5. Add CIN Numbers to ToDownloadCINV3Docs.csv file in CIN Column
 6. Save and Close teh .csv file
